@@ -1,6 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <.../Inc/generic_swap.h>
+
 
 void genericSwap(vois *pa,void *pb, int size)
 {
